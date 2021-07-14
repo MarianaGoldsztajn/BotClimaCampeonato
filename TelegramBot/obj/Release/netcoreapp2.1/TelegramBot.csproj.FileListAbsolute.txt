@@ -1,0 +1,12 @@
+C:\Users\Usuario\Downloads\TelegramBot-20210709T125829Z-001\TelegramBot\TelegramBot\bin\Release\netcoreapp2.1\TelegramBot.deps.json
+C:\Users\Usuario\Downloads\TelegramBot-20210709T125829Z-001\TelegramBot\TelegramBot\bin\Release\netcoreapp2.1\TelegramBot.runtimeconfig.json
+C:\Users\Usuario\Downloads\TelegramBot-20210709T125829Z-001\TelegramBot\TelegramBot\bin\Release\netcoreapp2.1\TelegramBot.runtimeconfig.dev.json
+C:\Users\Usuario\Downloads\TelegramBot-20210709T125829Z-001\TelegramBot\TelegramBot\bin\Release\netcoreapp2.1\TelegramBot.dll
+C:\Users\Usuario\Downloads\TelegramBot-20210709T125829Z-001\TelegramBot\TelegramBot\bin\Release\netcoreapp2.1\TelegramBot.pdb
+C:\Users\Usuario\Downloads\TelegramBot-20210709T125829Z-001\TelegramBot\TelegramBot\obj\Release\netcoreapp2.1\TelegramBot.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\TelegramBot-20210709T125829Z-001\TelegramBot\TelegramBot\obj\Release\netcoreapp2.1\TelegramBot.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\TelegramBot-20210709T125829Z-001\TelegramBot\TelegramBot\obj\Release\netcoreapp2.1\TelegramBot.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\TelegramBot-20210709T125829Z-001\TelegramBot\TelegramBot\obj\Release\netcoreapp2.1\TelegramBot.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\TelegramBot-20210709T125829Z-001\TelegramBot\TelegramBot\obj\Release\netcoreapp2.1\TelegramBot.dll
+C:\Users\Usuario\Downloads\TelegramBot-20210709T125829Z-001\TelegramBot\TelegramBot\obj\Release\netcoreapp2.1\TelegramBot.pdb
+C:\Users\Usuario\Downloads\TelegramBot-20210709T125829Z-001\TelegramBot\TelegramBot\obj\Release\netcoreapp2.1\TelegramBot.genruntimeconfig.cache
